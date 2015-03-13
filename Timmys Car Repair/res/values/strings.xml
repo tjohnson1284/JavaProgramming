@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CarRepairReservationSystem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="months_prompt">Select Month</string>
+    <string name="day_prompt">Select a Day</string>
+    <string name="time_prompt">Select a Time</string>
+    <string name="greeting">Timmy\'s Car Repair</string>
+    <string name="admin_button">Admin</string>
+    <string name="create_button">Create Reservation</string>
+    <string name="cancel_button">Cancel Reservation</string>
+    <string name="create_title">New Reservation</string>
+    <color name = "black">#000000</color>
+    <color name = "white">#FFFFFF</color>
+    <string name = "name_label">Name</string>
+    <string name = "number_Label">Phone Number</string>
+    <string name = "submit_button">Submit</string>
+    <string name = "cancel_title">Cancel Reservation</string>
+    <string name = "admin_title">Admin Page</string>
+    <string name = "admin_prompt">Enter Login Information</string>
+    <string name = "pass_prompt">Enter Password</string>
+    <string name = "name_prompt">Enter Username</string>
+    <string name = "admin1">Number of Appointments Made:</string>
+    <string name = "admin2">Number of Appointments Cancelled:</string>
+    <string name = "admin1_def">0</string>
+    <string name = "admin2_def">0</string>
+    <string name = "home_button">Home</string>
+    
+    <string-array name = "months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name = "times">
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>1:00</item>
+        <item>2:00</item>
+        <item>3:00</item>
+        <item>4:00</item>
+    </string-array>
+
+</resources>
